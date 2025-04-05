@@ -1,0 +1,38 @@
+.prg_bar {
+    width: 24px;
+    height: 24px;
+    border-radius: 24px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px; }
+  .prg_bar_counter {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    content: '';
+    color: #fff;
+    border-radius: 100%;
+    z-index: 10; }
+  .prg_bar .prg_bar_mask, .prg_bar .fill {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    border-radius: 50%;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px; }
+  .prg_bar .prg_bar_mask {
+    clip: rect(0px, 24px, 24px, 12px); }
+  .prg_bar .prg_bar_mask .fill {
+    clip: rect(0px, 12px, 24px, 0px);
+    border: 1px solid #009846;
+    /* background-color: #eaeaf1;  */
+  }
+  .prg_bar .prg_bar_mask.full, .prg_bar .fill {
+    transform: rotate(0deg); }
