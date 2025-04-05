@@ -1,0 +1,952 @@
+Uri: http://test800.ru/
+File Name: C:\Downloaded Web Sites\test800.ru\index.htm
+Content Type: text/html
+
+Uri: http://test800.ru/about.php
+File Name: C:\Downloaded Web Sites\test800.ru\about.html
+Content Type: text/html
+
+Uri: http://test800.ru/angarsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\angarsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/balashikha.php
+File Name: C:\Downloaded Web Sites\test800.ru\balashikha.html
+Content Type: text/html
+
+Uri: http://test800.ru/barnaul.php
+File Name: C:\Downloaded Web Sites\test800.ru\barnaul.html
+Content Type: text/html
+
+Uri: http://test800.ru/belgorod.php
+File Name: C:\Downloaded Web Sites\test800.ru\belgorod.html
+Content Type: text/html
+
+Uri: http://test800.ru/bibirevo.php
+File Name: C:\Downloaded Web Sites\test800.ru\bibirevo.html
+Content Type: text/html
+
+Uri: http://test800.ru/blagoveshchensk.php
+File Name: C:\Downloaded Web Sites\test800.ru\blagoveshchensk.html
+Content Type: text/html
+
+Uri: http://test800.ru/bryansk.php
+File Name: C:\Downloaded Web Sites\test800.ru\bryansk.html
+Content Type: text/html
+
+Uri: http://test800.ru/chekhov.php
+File Name: C:\Downloaded Web Sites\test800.ru\chekhov.html
+Content Type: text/html
+
+Uri: http://test800.ru/chelyabinsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\chelyabinsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/chertanovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\chertanovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/contacts.php
+File Name: C:\Downloaded Web Sites\test800.ru\contacts.html
+Content Type: text/html
+
+Uri: http://test800.ru/dedovsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\dedovsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/dmitrov.php
+File Name: C:\Downloaded Web Sites\test800.ru\dmitrov.html
+Content Type: text/html
+
+Uri: http://test800.ru/dmitrovskiy_go.php
+File Name: C:\Downloaded Web Sites\test800.ru\dmitrovskiy_go.html
+Content Type: text/html
+
+Uri: http://test800.ru/dolgoprudny.php
+File Name: C:\Downloaded Web Sites\test800.ru\dolgoprudny.html
+Content Type: text/html
+
+Uri: http://test800.ru/domodedovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\domodedovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/dzerzhinsky.php
+File Name: C:\Downloaded Web Sites\test800.ru\dzerzhinsky.html
+Content Type: text/html
+
+Uri: http://test800.ru/ekaterinburg.php
+File Name: C:\Downloaded Web Sites\test800.ru\ekaterinburg.html
+Content Type: text/html
+
+Uri: http://test800.ru/elektrostal.php
+File Name: C:\Downloaded Web Sites\test800.ru\elektrostal.html
+Content Type: text/html
+
+Uri: http://test800.ru/fili.php
+File Name: C:\Downloaded Web Sites\test800.ru\fili.html
+Content Type: text/html
+
+Uri: http://test800.ru/fryazino.php
+File Name: C:\Downloaded Web Sites\test800.ru\fryazino.html
+Content Type: text/html
+
+Uri: http://test800.ru/gelendzhik.php
+File Name: C:\Downloaded Web Sites\test800.ru\gelendzhik.html
+Content Type: text/html
+
+Uri: http://test800.ru/goroda.php
+File Name: C:\Downloaded Web Sites\test800.ru\goroda.html
+Content Type: text/html
+
+Uri: http://test800.ru/irkutsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\irkutsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/istra.php
+File Name: C:\Downloaded Web Sites\test800.ru\istra.html
+Content Type: text/html
+
+Uri: http://test800.ru/ivanovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\ivanovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/ivanteevka.php
+File Name: C:\Downloaded Web Sites\test800.ru\ivanteevka.html
+Content Type: text/html
+
+Uri: http://test800.ru/izhevsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\izhevsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/izmaylovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\izmaylovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/kaliningrad.php
+File Name: C:\Downloaded Web Sites\test800.ru\kaliningrad.html
+Content Type: text/html
+
+Uri: http://test800.ru/kazan.php
+File Name: C:\Downloaded Web Sites\test800.ru\kazan.html
+Content Type: text/html
+
+Uri: http://test800.ru/kemerovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\kemerovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/khimki.php
+File Name: C:\Downloaded Web Sites\test800.ru\khimki.html
+Content Type: text/html
+
+Uri: http://test800.ru/khoroshevo.php
+File Name: C:\Downloaded Web Sites\test800.ru\khoroshevo.html
+Content Type: text/html
+
+Uri: http://test800.ru/khovrino.php
+File Name: C:\Downloaded Web Sites\test800.ru\khovrino.html
+Content Type: text/html
+
+Uri: http://test800.ru/kommunarka.php
+File Name: C:\Downloaded Web Sites\test800.ru\kommunarka.html
+Content Type: text/html
+
+Uri: http://test800.ru/konykovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\konykovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/korolev.php
+File Name: C:\Downloaded Web Sites\test800.ru\korolev.html
+Content Type: text/html
+
+Uri: http://test800.ru/kotelniki.php
+File Name: C:\Downloaded Web Sites\test800.ru\kotelniki.html
+Content Type: text/html
+
+Uri: http://test800.ru/krasnodar.php
+File Name: C:\Downloaded Web Sites\test800.ru\krasnodar.html
+Content Type: text/html
+
+Uri: http://test800.ru/krasnogorsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\krasnogorsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/krasnoyarsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\krasnoyarsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/lipetsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\lipetsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/lobnya.php
+File Name: C:\Downloaded Web Sites\test800.ru\lobnya.html
+Content Type: text/html
+
+Uri: http://test800.ru/logo.png
+File Name: C:\Downloaded Web Sites\test800.ru\logo.png
+Content Type: image/png
+
+Uri: http://test800.ru/lytkarino.php
+File Name: C:\Downloaded Web Sites\test800.ru\lytkarino.html
+Content Type: text/html
+
+Uri: http://test800.ru/lyubertsy.php
+File Name: C:\Downloaded Web Sites\test800.ru\lyubertsy.html
+Content Type: text/html
+
+Uri: http://test800.ru/marino.php
+File Name: C:\Downloaded Web Sites\test800.ru\marino.html
+Content Type: text/html
+
+Uri: http://test800.ru/medvedkovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\medvedkovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/moskovskiy.php
+File Name: C:\Downloaded Web Sites\test800.ru\moskovskiy.html
+Content Type: text/html
+
+Uri: http://test800.ru/moskva.php
+File Name: C:\Downloaded Web Sites\test800.ru\moskva.html
+Content Type: text/html
+
+Uri: http://test800.ru/mytishchi.php
+File Name: C:\Downloaded Web Sites\test800.ru\mytishchi.html
+Content Type: text/html
+
+Uri: http://test800.ru/naro_fominskiy_go.php
+File Name: C:\Downloaded Web Sites\test800.ru\naro_fominskiy_go.html
+Content Type: text/html
+
+Uri: http://test800.ru/nizhnevartovsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\nizhnevartovsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/nizhniy_novgorod.php
+File Name: C:\Downloaded Web Sites\test800.ru\nizhniy_novgorod.html
+Content Type: text/html
+
+Uri: http://test800.ru/noginsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\noginsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/norilsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\norilsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/novokuznetsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\novokuznetsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/novorossiysk.php
+File Name: C:\Downloaded Web Sites\test800.ru\novorossiysk.html
+Content Type: text/html
+
+Uri: http://test800.ru/novosibirsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\novosibirsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/obninsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\obninsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/odintsovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\odintsovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/oktyabrskiy.php
+File Name: C:\Downloaded Web Sites\test800.ru\oktyabrskiy.html
+Content Type: text/html
+
+Uri: http://test800.ru/omsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\omsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/penza.php
+File Name: C:\Downloaded Web Sites\test800.ru\penza.html
+Content Type: text/html
+
+Uri: http://test800.ru/peredelkino.php
+File Name: C:\Downloaded Web Sites\test800.ru\peredelkino.html
+Content Type: text/html
+
+Uri: http://test800.ru/podolsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\podolsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/privacy.html
+File Name: C:\Downloaded Web Sites\test800.ru\privacy.html
+Content Type: text/html
+
+Uri: http://test800.ru/pskov.php
+File Name: C:\Downloaded Web Sites\test800.ru\pskov.html
+Content Type: text/html
+
+Uri: http://test800.ru/pushkino.php
+File Name: C:\Downloaded Web Sites\test800.ru\pushkino.html
+Content Type: text/html
+
+Uri: http://test800.ru/ramenskoe.php
+File Name: C:\Downloaded Web Sites\test800.ru\ramenskoe.html
+Content Type: text/html
+
+Uri: http://test800.ru/reutov.php
+File Name: C:\Downloaded Web Sites\test800.ru\reutov.html
+Content Type: text/html
+
+Uri: http://test800.ru/rostov.php
+File Name: C:\Downloaded Web Sites\test800.ru\rostov.html
+Content Type: text/html
+
+Uri: http://test800.ru/ryazan.php
+File Name: C:\Downloaded Web Sites\test800.ru\ryazan.html
+Content Type: text/html
+
+Uri: http://test800.ru/salekhard.php
+File Name: C:\Downloaded Web Sites\test800.ru\salekhard.html
+Content Type: text/html
+
+Uri: http://test800.ru/samara.php
+File Name: C:\Downloaded Web Sites\test800.ru\samara.html
+Content Type: text/html
+
+Uri: http://test800.ru/saransk.php
+File Name: C:\Downloaded Web Sites\test800.ru\saransk.html
+Content Type: text/html
+
+Uri: http://test800.ru/scripts.js
+File Name: C:\Downloaded Web Sites\test800.ru\scripts.js
+Content Type: application/javascript
+
+Uri: http://test800.ru/severnoe_butovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\severnoe_butovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/shcherbinka.php
+File Name: C:\Downloaded Web Sites\test800.ru\shcherbinka.html
+Content Type: text/html
+
+Uri: http://test800.ru/shchyolkovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\shchyolkovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/shipilovskaya.php
+File Name: C:\Downloaded Web Sites\test800.ru\shipilovskaya.html
+Content Type: text/html
+
+Uri: http://test800.ru/skhodnya.php
+File Name: C:\Downloaded Web Sites\test800.ru\skhodnya.html
+Content Type: text/html
+
+Uri: http://test800.ru/sochi.php
+File Name: C:\Downloaded Web Sites\test800.ru\sochi.html
+Content Type: text/html
+
+Uri: http://test800.ru/solnechnogorskiy_go.php
+File Name: C:\Downloaded Web Sites\test800.ru\solnechnogorskiy_go.html
+Content Type: text/html
+
+Uri: http://test800.ru/solntsevo.php
+File Name: C:\Downloaded Web Sites\test800.ru\solntsevo.html
+Content Type: text/html
+
+Uri: http://test800.ru/spb.php
+File Name: C:\Downloaded Web Sites\test800.ru\spb.html
+Content Type: text/html
+
+Uri: http://test800.ru/staraya_kupavna.php
+File Name: C:\Downloaded Web Sites\test800.ru\staraya_kupavna.html
+Content Type: text/html
+
+Uri: http://test800.ru/styles.css
+File Name: C:\Downloaded Web Sites\test800.ru\styles.css
+Content Type: text/css
+
+Uri: http://test800.ru/surgut.php
+File Name: C:\Downloaded Web Sites\test800.ru\surgut.html
+Content Type: text/html
+
+Uri: http://test800.ru/tomsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\tomsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/troitsk.php
+File Name: C:\Downloaded Web Sites\test800.ru\troitsk.html
+Content Type: text/html
+
+Uri: http://test800.ru/tula.php
+File Name: C:\Downloaded Web Sites\test800.ru\tula.html
+Content Type: text/html
+
+Uri: http://test800.ru/tulskaya.php
+File Name: C:\Downloaded Web Sites\test800.ru\tulskaya.html
+Content Type: text/html
+
+Uri: http://test800.ru/tver.php
+File Name: C:\Downloaded Web Sites\test800.ru\tver.html
+Content Type: text/html
+
+Uri: http://test800.ru/tyumen.php
+File Name: C:\Downloaded Web Sites\test800.ru\tyumen.html
+Content Type: text/html
+
+Uri: http://test800.ru/ufa.php
+File Name: C:\Downloaded Web Sites\test800.ru\ufa.html
+Content Type: text/html
+
+Uri: http://test800.ru/varshavskaya.php
+File Name: C:\Downloaded Web Sites\test800.ru\varshavskaya.html
+Content Type: text/html
+
+Uri: http://test800.ru/vatutinki.php
+File Name: C:\Downloaded Web Sites\test800.ru\vatutinki.html
+Content Type: text/html
+
+Uri: http://test800.ru/velikiy_novgorod.php
+File Name: C:\Downloaded Web Sites\test800.ru\velikiy_novgorod.html
+Content Type: text/html
+
+Uri: http://test800.ru/vidnoe.php
+File Name: C:\Downloaded Web Sites\test800.ru\vidnoe.html
+Content Type: text/html
+
+Uri: http://test800.ru/vladimir.php
+File Name: C:\Downloaded Web Sites\test800.ru\vladimir.html
+Content Type: text/html
+
+Uri: http://test800.ru/voronezh.php
+File Name: C:\Downloaded Web Sites\test800.ru\voronezh.html
+Content Type: text/html
+
+Uri: http://test800.ru/yasenevo.php
+File Name: C:\Downloaded Web Sites\test800.ru\yasenevo.html
+Content Type: text/html
+
+Uri: http://test800.ru/yoshkar_ola.php
+File Name: C:\Downloaded Web Sites\test800.ru\yoshkar_ola.html
+Content Type: text/html
+
+Uri: http://test800.ru/yuzhnoe_butovo.php
+File Name: C:\Downloaded Web Sites\test800.ru\yuzhnoe_butovo.html
+Content Type: text/html
+
+Uri: http://test800.ru/zelenograd.php
+File Name: C:\Downloaded Web Sites\test800.ru\zelenograd.html
+Content Type: text/html
+
+Uri: http://test800.ru/zheleznodorozhny.php
+File Name: C:\Downloaded Web Sites\test800.ru\zheleznodorozhny.html
+Content Type: text/html
+
+Uri: http://test800.ru/zhukovskiy.php
+File Name: C:\Downloaded Web Sites\test800.ru\zhukovskiy.html
+Content Type: text/html
+
+Uri: http://test800.ru/zvenigorod.php
+File Name: C:\Downloaded Web Sites\test800.ru\zvenigorod.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\test800.ru\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\test800.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\test800.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\test800.ru\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\test800.ru\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\test800.ru\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\test800.ru\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: C:\Downloaded Web Sites\test800.ru\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: C:\Downloaded Web Sites\test800.ru\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: C:\Downloaded Web Sites\test800.ru\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: C:\Downloaded Web Sites\test800.ru\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\test800.ru\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://kirimati.ru/
+File Name: C:\Downloaded Web Sites\test800.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://kirimati.ru/css/font-awesome.min.css?1689237593
+File Name: C:\Downloaded Web Sites\test800.ru\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://kirimati.ru/css/jquery.fancybox.min.css?1617337831
+File Name: C:\Downloaded Web Sites\test800.ru\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://kirimati.ru/css/selectize.css?1617337831
+File Name: C:\Downloaded Web Sites\test800.ru\css\selectize.css
+Content Type: text/css
+
+Uri: https://kirimati.ru/css/slick.css
+File Name: C:\Downloaded Web Sites\test800.ru\css\slick.css
+Content Type: text/css
+
+Uri: https://kirimati.ru/css/swiper.radialprogress.plugin.css?1617337831
+File Name: C:\Downloaded Web Sites\test800.ru\css\swiper.radialprogress.plugin.css
+Content Type: text/css
+
+Uri: https://kirimati.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\test800.ru\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://kirimati.ru/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\test800.ru\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kirimati.ru/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\test800.ru\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kirimati.ru/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\test800.ru\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\test800.ru\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://kirimati.ru/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\test800.ru\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://kirimati.ru/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\test800.ru\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://kirimati.ru/hostcmsfiles/jquery/jquery.autocomplete.min.js?1622015083
+File Name: C:\Downloaded Web Sites\test800.ru\hostcmsfiles\jquery\jquery.autocomplete.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/images/about-home-img-small.jpg
+File Name: C:\Downloaded Web Sites\test800.ru\images\about-home-img-small.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimati.ru/images/about-home-img.jpg
+File Name: C:\Downloaded Web Sites\test800.ru\images\about-home-img.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimati.ru/images/arrows/top_arrow.png
+File Name: C:\Downloaded Web Sites\test800.ru\images\arrows\top_arrow.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/images/check-hide.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\check-hide.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/check.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\check.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/files/doc.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\files\doc.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/files/jpg.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\files\jpg.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/files/pdf.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\files\pdf.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/files/png.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\files\png.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/files/xls.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\files\xls.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/fon-img-1.png
+File Name: C:\Downloaded Web Sites\test800.ru\images\fon-img-1.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/images/fon-img-2.png
+File Name: C:\Downloaded Web Sites\test800.ru\images\fon-img-2.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/images/home-advantages-1.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\home-advantages-1.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/home-advantages-2.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\home-advantages-2.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/home-advantages-3.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\home-advantages-3.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/home-advantages-4.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\home-advantages-4.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/info.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\info.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/logo-footer-new.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\logo-footer-new.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/promo-img-hide.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\promo-img-hide.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/promo-img.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\promo-img.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/reviews/star-active-big.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\reviews\star-active-big.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/reviews/star-noactive-big.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\reviews\star-noactive-big.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/search1.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\search1.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/show_more.svg
+File Name: C:\Downloaded Web Sites\test800.ru\images\show_more.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/images/sprite-sorting_types.png
+File Name: C:\Downloaded Web Sites\test800.ru\images\sprite-sorting_types.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/img/arrow.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/check-icon.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\check-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/checked.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\checked.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/email.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\email.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/floor-lamp.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\floor-lamp.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/gray-arrow.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\gray-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/insta-icon.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\insta-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/logo.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/magnifying-glass.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\magnifying-glass.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/map.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\map.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/paper-clip.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\paper-clip.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/phone.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/img/vk-icon.svg
+File Name: C:\Downloaded Web Sites\test800.ru\img\vk-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://kirimati.ru/js/datepicker.min.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/fixedheader.js?1703824181
+File Name: C:\Downloaded Web Sites\test800.ru\js\fixedheader.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/jquery.airStickyBlock.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\jquery.airStickyBlock.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/jquery.animateNumber.min.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\jquery.animateNumber.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/jquery.autocomplete.min.js?1622015050
+File Name: C:\Downloaded Web Sites\test800.ru\js\jquery.autocomplete.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/jquery.fancybox.min.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/jquery.grecaptcha.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\jquery.grecaptcha.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/jquery.hoverIntent.min.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\jquery.hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\test800.ru\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/jquery.zoom.min.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\jquery.zoom.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/js.cookie.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\js.cookie.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/libs/jquery.inputmask.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\libs\jquery.inputmask.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/libs/slinky2.min.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\libs\slinky2.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/map.js?1708595266
+File Name: C:\Downloaded Web Sites\test800.ru\js\map.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/protip.min.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\protip.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/readmore.min.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\readmore.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/scrollreveal.min.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\scrollreveal.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/slick.min.js
+File Name: C:\Downloaded Web Sites\test800.ru\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/swiper.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\swiper.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/swiper.radialprogress.plugin.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\swiper.radialprogress.plugin.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/validator.js?1708593184
+File Name: C:\Downloaded Web Sites\test800.ru\js\validator.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/js/wickedpicker.min.js?1617337832
+File Name: C:\Downloaded Web Sites\test800.ru\js\wickedpicker.min.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/templates/template1/script.js?1739937488
+File Name: C:\Downloaded Web Sites\test800.ru\templates\template1\script.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/templates/template1/style.css?1739937488
+File Name: C:\Downloaded Web Sites\test800.ru\templates\template1\style.css
+Content Type: text/css
+
+Uri: https://kirimati.ru/templates/template7/script.js?1727690810
+File Name: C:\Downloaded Web Sites\test800.ru\templates\template7\script.js
+Content Type: application/javascript
+
+Uri: https://kirimati.ru/templates/template7/style.css?1727690810
+File Name: C:\Downloaded Web Sites\test800.ru\templates\template7\style.css
+Content Type: text/css
+
+Uri: https://kirimati.ru/upload/information_system_40/6/3/7/item_637/item_637.jpg
+File Name: C:\Downloaded Web Sites\test800.ru\upload\information_system_40\6\3\7\item_637\item_637.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimati.ru/upload/information_system_40/6/3/8/item_638/item_638.jpg
+File Name: C:\Downloaded Web Sites\test800.ru\upload\information_system_40\6\3\8\item_638\item_638.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimati.ru/upload/information_system_41/6/4/0/item_640/item_640.jpg
+File Name: C:\Downloaded Web Sites\test800.ru\upload\information_system_41\6\4\0\item_640\item_640.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimati.ru/upload/information_system_41/6/4/0/item_640/small_item_640.jpg
+File Name: C:\Downloaded Web Sites\test800.ru\upload\information_system_41\6\4\0\item_640\small_item_640.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimati.ru/upload/information_system_41/6/4/2/item_642/item_642.jpg
+File Name: C:\Downloaded Web Sites\test800.ru\upload\information_system_41\6\4\2\item_642\item_642.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimati.ru/upload/information_system_41/6/4/2/item_642/small_item_642.jpg
+File Name: C:\Downloaded Web Sites\test800.ru\upload\information_system_41\6\4\2\item_642\small_item_642.jpg
+Content Type: image/jpeg
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/2/group_682/property_6385.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\2\group_682\property_6385.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/2/group_682/small_property_6385.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\2\group_682\small_property_6385.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/3/group_683/property_6386.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\3\group_683\property_6386.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/3/group_683/small_property_6386.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\3\group_683\small_property_6386.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/4/group_684/property_6381.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\4\group_684\property_6381.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/4/group_684/small_property_6381.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\4\group_684\small_property_6381.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/6/group_686/property_6378.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\6\group_686\property_6378.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/6/group_686/small_property_6378.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\6\group_686\small_property_6378.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/7/group_687/property_6382.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\7\group_687\property_6382.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/7/group_687/small_property_6382.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\7\group_687\small_property_6382.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/9/group_689/property_6380.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\9\group_689\property_6380.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/8/9/group_689/small_property_6380.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\8\9\group_689\small_property_6380.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/9/1/group_691/property_6377.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\9\1\group_691\property_6377.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/9/1/group_691/small_property_6377.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\9\1\group_691\small_property_6377.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/9/2/group_692/property_6383.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\9\2\group_692\property_6383.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/9/2/group_692/small_property_6383.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\9\2\group_692\small_property_6383.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/9/8/group_698/property_6387.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\9\8\group_698\property_6387.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/6/9/8/group_698/small_property_6387.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\6\9\8\group_698\small_property_6387.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/7/0/0/group_700/property_6384.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\7\0\0\group_700\property_6384.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/7/0/0/group_700/small_property_6384.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\7\0\0\group_700\small_property_6384.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/7/0/2/group_702/property_6379.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\7\0\2\group_702\property_6379.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/7/0/2/group_702/small_property_6379.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\7\0\2\group_702\small_property_6379.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/7/0/9/group_709/property_6376.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\7\0\9\group_709\property_6376.png
+Content Type: image/png
+
+Uri: https://kirimati.ru/upload/shop_1/7/0/9/group_709/small_property_6376.png
+File Name: C:\Downloaded Web Sites\test800.ru\upload\shop_1\7\0\9\group_709\small_property_6376.png
+Content Type: image/png
+
+Uri: https://mc.yandex.ru/watch/100801397
+File Name: C:\Downloaded Web Sites\test800.ru\watch\100801397
+Content Type: image/gif
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-1669199-bcoMN
+File Name: C:\Downloaded Web Sites\test800.ru\rtrg
+Content Type: image/gif
+
+Uri: https://www.google.com/recaptcha/api.js?onload=gcaptcha&render=explicit
+File Name: C:\Downloaded Web Sites\test800.ru\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-839R74KNG1
+File Name: C:\Downloaded Web Sites\test800.ru\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.transparenttextures.com/patterns/asfalt-light.png
+File Name: C:\Downloaded Web Sites\test800.ru\patterns\asfalt-light.png
+Content Type: image/png
+
+Uri: https://www.transparenttextures.com/patterns/cubes.png
+File Name: C:\Downloaded Web Sites\test800.ru\patterns\cubes.png
+Content Type: image/png
+
