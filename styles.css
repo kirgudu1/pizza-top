@@ -1673,3 +1673,13 @@ h1 {
     }
 }
 
+/* ======== Рекламная пометка ======== */
+.ad-disclaimer {
+  font-size: 13px;
+  color: #666;
+  background: #f9f9f9;
+  border-left: 4px solid #ffcc00;
+  padding: 10px 15px;
+  margin-top: 40px;
+  border-radius: 6px;
+}
